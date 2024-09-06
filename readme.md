@@ -44,6 +44,6 @@ sqlline version 1.12.0
 
 ## Common used built-in commands
 
-!quit - exit from cmd query tool
-!tables - view tables in schema
-!columns <table name> - view table definition
+- !quit - exit from cmd query tool
+- !tables - view tables in schema
+- !columns <table name> - view table definition
