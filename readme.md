@@ -2,7 +2,7 @@
 
 Query information from GIT via SQL.
 
-Supported command:
+Supported commands:
 - git log
 - git diff (view changes each commit)
 
@@ -13,7 +13,7 @@ Java 8
 ## How to run
 
 **Linux:**
-1. Download calcite-git-0.2-SNAPSHOT-jar-with-dependencies.jar from project assets
+1. Download calcite-git-0.2-SNAPSHOT-jar-with-dependencies.jar from [release page](https://github.com/DarrMirr/sql-git/releases)
 2. Download sql_git.sh
 3. Put sql_git.sh and calcite-git-0.2-SNAPSHOT-jar-with-dependencies.jar into the same directory
 4. Execute sql_git.sh
