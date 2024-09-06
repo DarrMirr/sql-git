@@ -1,6 +1,6 @@
 # SQL query to GIT
 
-Query information to GIT via SQL.
+Query information from GIT via SQL.
 
 Supported command:
 - git log
