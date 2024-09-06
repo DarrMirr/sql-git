@@ -4,7 +4,7 @@ Query information from GIT via SQL.
 
 Supported commands:
 - git log
-- git diff (view changes each commit)
+- git diff (view changes for each commit)
 
 ## System requirements
 
